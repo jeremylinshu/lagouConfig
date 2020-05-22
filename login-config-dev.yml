@@ -4,8 +4,8 @@ datasource:
   username: root
   password: root
 iplimit:
-  minute:1
-  times:5
+  minute: 1
+  times: 5
  mail:
-  mailKey:1557621426
-  mailSecret:y1s9l9303100
+   mailKey: 1557621426
+   mailSecret: y1s9l9303100
