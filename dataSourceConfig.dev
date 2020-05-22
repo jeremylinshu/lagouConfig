@@ -1,4 +1,11 @@
-driver-class-name: com.mysql.jdbc.Driver
-url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
-username: root
-password: root
+datasource:
+  driver-class-name: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
+  username: root
+  password: root
+ipLimit:
+  minute:1
+  times:5
+ mail:
+  mailkey:
+  mail
