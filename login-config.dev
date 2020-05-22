@@ -3,7 +3,7 @@ datasource:
   url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
   username: root
   password: root
-ipLimit:
+iplimit:
   minute:1
   times:5
  mail:
