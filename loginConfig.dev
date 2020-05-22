@@ -7,5 +7,5 @@ ipLimit:
   minute:1
   times:5
  mail:
-  mailkey:
-  mail
+  mailKey:1557621426
+  mailSecret:y1s9l9303100
